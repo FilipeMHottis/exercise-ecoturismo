@@ -1,0 +1,14 @@
+{
+    "acactivities":[
+        {
+            "id":1,
+            "name": "test",
+            "price": 100,
+            "description": {
+                "createdAt": "03/10/2023",
+                "rating": 2,
+                "difficulty": "Fácil"
+            }
+        }
+    ]
+}
